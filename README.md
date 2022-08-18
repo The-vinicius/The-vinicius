@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi, I'm vinicius
 
-<!--
-**The-vinicius/The-vinicius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Stacks
 
-Here are some ideas to get you started:
+[![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org)
+[![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://docs.djangoproject.com/)
+[![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### GitHub
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=The-vinicius&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=The-vinicius&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
