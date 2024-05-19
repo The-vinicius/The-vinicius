@@ -18,5 +18,3 @@
 ### GitHub
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=The-vinicius&show_icons=true&theme=dark)](https://github.com/The-vinicius?tab=repositories)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=The-vinicius&theme=dark)](https://github.com/The-vinicius?tab=repositories)
