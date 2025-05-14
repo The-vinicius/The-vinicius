@@ -14,7 +14,3 @@
 [![](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)]()
 [![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)]()
 [![](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)]()
-
-### GitHub
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=The-vinicius&show_icons=true&theme=dark)](https://github.com/The-vinicius?tab=repositories)
